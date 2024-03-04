@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Data Persistance</string>
+    <string name="file">File</string>
+</resources>
